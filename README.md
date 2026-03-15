@@ -1,16 +1,65 @@
-# React + Vite
+# Magnum Opus — Алхімічна гра
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> *"Пізнай природи таємницю — і матерія відкриє тебе сама."*
+> — З герметичних написів на Смарагдовій Скрижалі
 
-Currently, two official plugins are available:
+## 🎮 Гра тут
+👉 **[Грати в Magnum Opus](https://.github.io/magnum-opus/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📖 Про гру
+**Magnum Opus** — це алхімічна гра-головоломка про пізнання себе через 64 архетипи. 
+Кожен архетип — це поєднання трьох вимірів:
+- **ХТО** (Me, We, You, They)
+- **ДЕ** (North, East, South, West)
+- **КОЛИ** (Winter, Spring, Summer, Autumn)
 
-## React Compiler
+Комбінуючи архетипи в тиглі за законом XOR (виключне "або"), ти відкриваєш нові сутності та проходиш 10 стадій Великого Діяння.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🎯 Як грати
+1. Обери архетипи через фільтри ХТО/ДЕ/КОЛИ
+2. Поклади до 3 архетипів у тигель
+3. Налаштуй температуру Атанору (зелена зона)
+4. Натисни "Трансмутація"
+5. Вивчай результат і записуй у Гримуар
 
-## Expanding the ESLint configuration
+## 📚 Документація
+- [`TUTORIAL.md`](./TUTORIAL.md) — повний туторіал "АТАНОР" (10 розмов про алхімію)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Як запустити локально
+```
+git clone https://github.com/sciganec/magnum-opus.git
+cd magnum-opus
+npm install
+npm run dev
+```
+
+⚗️ Субстанції
+```
+☿ Меркурій — рухомість, витрачається при дослідах
+🜔 Сірка — пристрасть і сила
+🜔 Сіль — стабільність
+✦ Азот — субстанція перетворення
+```
+
+📖 Гримуар (Книга пам'яті)
+```
+Архетипи — всі відкриті сутності
+Реакції — успішні комбінації
+Симулятор — тренування без витрат
+Щоденник — історія подій
+Спорідненість — зв'язки між архетипами
+```
+
+🔐 Збереження прогресу
+```
+Використовуй Sigillum Salomonis (меню ☰ → Печатка), щоб зберегти прогрес і перенести на інший пристрій.
+```
+
+📜 Ліцензія
+MIT
+
+🙏 Автор
+sciganec
+
+
+> "Хто пізнав себе — той пізнав усе." — Григорій Сковорода
