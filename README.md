@@ -4,7 +4,7 @@
 > — З герметичних написів на Смарагдовій Скрижалі
 
 ## 🎮 Гра тут
-👉 **[Грати в Magnum Opus](https://.github.io/magnum-opus/)**
+👉 **[Грати в Magnum Opus](https://sciganec.github.io/magnum-opus/)**
 
 ## 📖 Про гру
 **Magnum Opus** — це алхімічна гра-головоломка про пізнання себе через 64 архетипи. 
